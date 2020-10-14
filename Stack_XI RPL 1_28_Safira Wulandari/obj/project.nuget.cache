@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1CVb8bBEzTd7NkbjQVnlkt7XVA4I6efU7lG1QqcoJ+BIsW9+nkZ5Uer/Mhvet55Vg4TtTrunA8Oe1OU4NKsJ5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\Stack_XI RPL 1_28_Safira Wulandari\\Stack_XI RPL 1_28_Safira Wulandari\\Stack_XI RPL 1_28_Safira Wulandari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
